@@ -1,0 +1,6 @@
+F:\c# programing\linked list\linked list\obj\Debug\linked list.csprojAssemblyReference.cache
+F:\c# programing\linked list\linked list\bin\Debug\linked list.exe.config
+F:\c# programing\linked list\linked list\bin\Debug\linked list.exe
+F:\c# programing\linked list\linked list\bin\Debug\linked list.pdb
+F:\c# programing\linked list\linked list\obj\Debug\linked list.exe
+F:\c# programing\linked list\linked list\obj\Debug\linked list.pdb
