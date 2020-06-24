@@ -1,0 +1,6 @@
+F:\c# programing\tugas baru\tugas baru\obj\Debug\tugas baru.csprojAssemblyReference.cache
+F:\c# programing\tugas baru\tugas baru\bin\Debug\tugas baru.exe.config
+F:\c# programing\tugas baru\tugas baru\bin\Debug\tugas baru.exe
+F:\c# programing\tugas baru\tugas baru\bin\Debug\tugas baru.pdb
+F:\c# programing\tugas baru\tugas baru\obj\Debug\tugas baru.exe
+F:\c# programing\tugas baru\tugas baru\obj\Debug\tugas baru.pdb
