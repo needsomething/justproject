@@ -1,0 +1,6 @@
+F:\c# programing\tugas 9\tugas 9\bin\Debug\tugas 9.exe.config
+F:\c# programing\tugas 9\tugas 9\bin\Debug\tugas 9.exe
+F:\c# programing\tugas 9\tugas 9\bin\Debug\tugas 9.pdb
+F:\c# programing\tugas 9\tugas 9\obj\Debug\tugas 9.csprojAssemblyReference.cache
+F:\c# programing\tugas 9\tugas 9\obj\Debug\tugas 9.exe
+F:\c# programing\tugas 9\tugas 9\obj\Debug\tugas 9.pdb
