@@ -1,0 +1,5 @@
+C:\Users\ASUS\Videos\responsi pemograman lanjut\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\ASUS\Videos\responsi pemograman lanjut\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\ASUS\Videos\responsi pemograman lanjut\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\responsi pemograman lanjut\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\ASUS\Videos\responsi pemograman lanjut\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
