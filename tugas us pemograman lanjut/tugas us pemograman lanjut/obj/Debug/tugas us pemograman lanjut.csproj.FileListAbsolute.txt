@@ -1,0 +1,6 @@
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\bin\Debug\tugas us pemograman lanjut.exe.config
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\bin\Debug\tugas us pemograman lanjut.exe
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\bin\Debug\tugas us pemograman lanjut.pdb
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\obj\Debug\tugas us pemograman lanjut.csprojAssemblyReference.cache
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\obj\Debug\tugas us pemograman lanjut.exe
+F:\c# programing\tugas us pemograman lanjut\tugas us pemograman lanjut\obj\Debug\tugas us pemograman lanjut.pdb
